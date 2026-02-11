@@ -1,0 +1,14 @@
+{
+  "lastUpdated": "2026-02-11T07:00:00Z",
+  "targetAddress": "10 Imp. André Marestan, 31100 Toulouse",
+  "criteria": {
+    "maxPrice": 450000,
+    "minBedrooms": 5,
+    "minLivingAreaM2": 40,
+    "minGarageM2": 40,
+    "minLandM2": 1000,
+    "maxDistanceMinutes": 40,
+    "maxWorkCost": 10000
+  },
+  "houses": []
+}
