@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-11T07:00:00Z",
+  "lastUpdated": "2026-02-12T06:54:56.102Z",
   "targetAddress": "10 Imp. André Marestan, 31100 Toulouse",
   "criteria": {
     "maxPrice": 450000,
@@ -106,6 +106,186 @@
       "addedAt": "2026-02-11T07:00:00Z",
       "status": "pending",
       "notes": "À rechercher l'annonce complète - terrain extensible intéressant"
+    },
+    {
+      "id": "bienici-1770879260580-1ldp3z",
+      "url": "https://www.bienici.com/annonce/vente/muret/maison/4pieces/century-21-202_3832_71517?q=%2Frecherche%2Fachat%2Fhaute-garonne-31%2Fmaisonvilla%3Fprix-max%3D450000%26surface-terrain-min%3D1000&depuis-mise-en-avant=oui",
+      "title": "Maison 4 pièces 126 m²31600 Muret (Ox)",
+      "price": 214000,
+      "location": "31600 Muret",
+      "bedrooms": 5,
+      "source": "bienici",
+      "images": [],
+      "addedAt": "2026-02-12T06:54:20.580Z",
+      "status": "pending"
+    },
+    {
+      "id": "bienici-1770879260582-1vzmt0",
+      "url": "https://www.bienici.com/annonce/vente/muret/maison/4pieces/century-21-202_3832_71517?q=%2Frecherche%2Fachat%2Fhaute-garonne-31%2Fmaisonvilla%3Fprix-max%3D450000%26surface-terrain-min%3D1000&depuis-mise-en-avant=oui",
+      "title": "Maison 4 pièces 126 m²31600 Muret (Ox)",
+      "price": 214000,
+      "location": "31600 Muret",
+      "bedrooms": 5,
+      "source": "bienici",
+      "images": [],
+      "addedAt": "2026-02-12T06:54:20.582Z",
+      "status": "pending"
+    },
+    {
+      "id": "bienici-1770879260582-ixhqgh",
+      "url": "https://www.bienici.com/annonce/vente/tournefeuille/maison/6pieces/ag314724-508364873?q=%2Frecherche%2Fachat%2Fhaute-garonne-31%2Fmaisonvilla%3Fprix-max%3D450000%26surface-terrain-min%3D1000&depuis-mise-en-avant=oui",
+      "title": "Maison 6 pièces 130 m²31170 Tournefeuille (Paderne)",
+      "price": 429000,
+      "location": "31170 Tournefeuille",
+      "bedrooms": 5,
+      "source": "bienici",
+      "images": [],
+      "addedAt": "2026-02-12T06:54:20.582Z",
+      "status": "pending"
+    },
+    {
+      "id": "bienici-1770879260582-m2b4ok",
+      "url": "https://www.bienici.com/annonce/vente/tournefeuille/maison/6pieces/ag314724-508364873?q=%2Frecherche%2Fachat%2Fhaute-garonne-31%2Fmaisonvilla%3Fprix-max%3D450000%26surface-terrain-min%3D1000&depuis-mise-en-avant=oui",
+      "title": "Maison 6 pièces 130 m²31170 Tournefeuille (Paderne)",
+      "price": 429000,
+      "location": "31170 Tournefeuille",
+      "bedrooms": 5,
+      "source": "bienici",
+      "images": [],
+      "addedAt": "2026-02-12T06:54:20.582Z",
+      "status": "pending"
+    },
+    {
+      "id": "bienici-1770879260582-4t3buw",
+      "url": "https://www.bienici.com/annonce/vente/fonsorbes/maison/7pieces/consortium-171864223?q=%2Frecherche%2Fachat%2Fhaute-garonne-31%2Fmaisonvilla%3Fprix-max%3D450000%26surface-terrain-min%3D1000",
+      "title": "Maison 7 pièces 206 m²31470 Fonsorbes",
+      "price": 420000,
+      "location": "31470 Fonsorbes420",
+      "bedrooms": 5,
+      "source": "bienici",
+      "images": [],
+      "addedAt": "2026-02-12T06:54:20.582Z",
+      "status": "pending"
+    },
+    {
+      "id": "bienici-1770879260582-0tz4yo",
+      "url": "https://www.bienici.com/annonce/vente/fonsorbes/maison/7pieces/consortium-171864223?q=%2Frecherche%2Fachat%2Fhaute-garonne-31%2Fmaisonvilla%3Fprix-max%3D450000%26surface-terrain-min%3D1000",
+      "title": "Maison 7 pièces 206 m²31470 Fonsorbes",
+      "price": 420000,
+      "location": "31470 Fonsorbes420",
+      "bedrooms": 5,
+      "source": "bienici",
+      "images": [],
+      "addedAt": "2026-02-12T06:54:20.582Z",
+      "status": "pending"
+    },
+    {
+      "id": "bienici-1770879260582-4vbuvz",
+      "url": "https://www.bienici.com/annonce/vente/le-fauga/maison/7pieces/consortium-168182824?q=%2Frecherche%2Fachat%2Fhaute-garonne-31%2Fmaisonvilla%3Fprix-max%3D450000%26surface-terrain-min%3D1000",
+      "title": "Maison 7 pièces 172 m²31410 Le Fauga",
+      "price": 368000,
+      "location": "31410 Le",
+      "bedrooms": 5,
+      "source": "bienici",
+      "images": [],
+      "addedAt": "2026-02-12T06:54:20.582Z",
+      "status": "pending"
+    },
+    {
+      "id": "bienici-1770879260582-mweydi",
+      "url": "https://www.bienici.com/annonce/vente/le-fauga/maison/7pieces/consortium-168182824?q=%2Frecherche%2Fachat%2Fhaute-garonne-31%2Fmaisonvilla%3Fprix-max%3D450000%26surface-terrain-min%3D1000",
+      "title": "Maison 7 pièces 172 m²31410 Le Fauga",
+      "price": 368000,
+      "location": "31410 Le",
+      "bedrooms": 5,
+      "source": "bienici",
+      "images": [],
+      "addedAt": "2026-02-12T06:54:20.582Z",
+      "status": "pending"
+    },
+    {
+      "id": "bienici-1770879260582-926u5f",
+      "url": "https://www.bienici.com/annonce/vente/mauzac/maison/6pieces/consortium-168112623?q=%2Frecherche%2Fachat%2Fhaute-garonne-31%2Fmaisonvilla%3Fprix-max%3D450000%26surface-terrain-min%3D1000",
+      "title": "Maison 6 pièces 155 m²31410 Mauzac",
+      "price": 450000,
+      "location": "31410 Mauzac450",
+      "bedrooms": 5,
+      "source": "bienici",
+      "images": [],
+      "addedAt": "2026-02-12T06:54:20.582Z",
+      "status": "pending"
+    },
+    {
+      "id": "bienici-1770879260582-hkhf8r",
+      "url": "https://www.bienici.com/annonce/vente/mauzac/maison/6pieces/consortium-168112623?q=%2Frecherche%2Fachat%2Fhaute-garonne-31%2Fmaisonvilla%3Fprix-max%3D450000%26surface-terrain-min%3D1000",
+      "title": "Maison 6 pièces 155 m²31410 Mauzac",
+      "price": 450000,
+      "location": "31410 Mauzac450",
+      "bedrooms": 5,
+      "source": "bienici",
+      "images": [],
+      "addedAt": "2026-02-12T06:54:20.582Z",
+      "status": "pending"
+    },
+    {
+      "id": "bienici-1770879260582-4v96zz",
+      "url": "https://www.bienici.com/annonce/vente/frouzins/maison/9pieces/immo-facile-59647770?q=%2Frecherche%2Fachat%2Fhaute-garonne-31%2Fmaisonvilla%3Fprix-max%3D450000%26surface-terrain-min%3D1000",
+      "title": "Maison 9 pièces 267 m²31270 Frouzins",
+      "price": 450000,
+      "location": "31270 Frouzins450",
+      "bedrooms": 5,
+      "source": "bienici",
+      "images": [],
+      "addedAt": "2026-02-12T06:54:20.582Z",
+      "status": "pending"
+    },
+    {
+      "id": "bienici-1770879260582-i6ejc2",
+      "url": "https://www.bienici.com/annonce/vente/frouzins/maison/9pieces/immo-facile-59647770?q=%2Frecherche%2Fachat%2Fhaute-garonne-31%2Fmaisonvilla%3Fprix-max%3D450000%26surface-terrain-min%3D1000",
+      "title": "Maison 9 pièces 267 m²31270 Frouzins",
+      "price": 450000,
+      "location": "31270 Frouzins450",
+      "bedrooms": 5,
+      "source": "bienici",
+      "images": [],
+      "addedAt": "2026-02-12T06:54:20.582Z",
+      "status": "pending"
+    },
+    {
+      "id": "bienici-1770879260582-jksy9i",
+      "url": "https://www.bienici.com/annonce/vente/toulouse/maison/8pieces/ag311656-506711180?q=%2Frecherche%2Fachat%2Fhaute-garonne-31%2Fmaisonvilla%3Fprix-max%3D450000%26surface-terrain-min%3D1000",
+      "title": "Maison 8 pièces 250 m²31000 Toulouse (Saint-Sernin)",
+      "price": 436800,
+      "location": "31000 Toulouse",
+      "bedrooms": 5,
+      "source": "bienici",
+      "images": [],
+      "addedAt": "2026-02-12T06:54:20.582Z",
+      "status": "pending"
+    },
+    {
+      "id": "bienici-1770879260582-5npxt6",
+      "url": "https://www.bienici.com/annonce/vente/toulouse/maison/8pieces/ag311656-506711180?q=%2Frecherche%2Fachat%2Fhaute-garonne-31%2Fmaisonvilla%3Fprix-max%3D450000%26surface-terrain-min%3D1000",
+      "title": "Maison 8 pièces 250 m²31000 Toulouse (Saint-Sernin)",
+      "price": 436800,
+      "location": "31000 Toulouse",
+      "bedrooms": 5,
+      "source": "bienici",
+      "images": [],
+      "addedAt": "2026-02-12T06:54:20.582Z",
+      "status": "pending"
+    },
+    {
+      "id": "bienici-1770879260582-1ufy22",
+      "url": "https://www.bienici.com/annonce/vente/toulouse/maison/7pieces/ag310791-493036235?q=%2Frecherche%2Fachat%2Fhaute-garonne-31%2Fmaisonvilla%3Fprix-max%3D450000%26surface-terrain-min%3D1000",
+      "title": "Maison 7 pièces 235 m²31400 Toulouse (Pouvourville)",
+      "price": 399000,
+      "location": "31400 Toulouse",
+      "bedrooms": 5,
+      "source": "bienici",
+      "images": [],
+      "addedAt": "2026-02-12T06:54:20.582Z",
+      "status": "pending"
     }
   ]
 }
